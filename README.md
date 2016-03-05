@@ -13,5 +13,5 @@ To view slides
 --------------
 [Documentation](https://godoc.org/golang.org/x/tools/present)
 ```bash
-$ go tools present
+$ go tool present
 ```
